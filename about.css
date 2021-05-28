@@ -1,0 +1,31 @@
+.foto{
+    margin-left: 160px;
+    margin-right:200px;
+    width: 900px;
+}
+
+.about {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: skyblue;
+    
+
+}
+.about .mission-info p{
+    text-align: center; 
+    margin-right: 379px;
+    background-color: skyblue;
+    }
+    
+.about h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+.about p {
+    font-size: 15px;
+    text-align: center;
+}
+.container img{
+    background-color: white;
+    size: 5px;
+}

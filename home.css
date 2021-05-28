@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: auto
+    ;
+}
+.navbar-style {
+    background-color: rgb(5, 5, 104);
+    box-shadow: 0 5px 5px white;
+}
+.logo {
+    height: 45px;
+    padding: 2px 1px;
+}
+.icon-bar {
+    background: lightblue;
+}
+p {
+    font-size: 10px;
+    color: white;
+}
+li a{
+    color: white;
+}
+h2 {
+    size: 30px;
+    color: black;
+    position: center;
+    text-align: center;
+}
+.img-container {
+    text-align: center;
+}
